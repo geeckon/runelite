@@ -25,7 +25,8 @@ public class EnchantingItemHighlightPlugin extends Plugin
 {
     private static final List<Integer> ITEMS = ImmutableList.of(
             ItemID.ENSOULED_DRAGON_HEAD_13511,
-            ItemID.ENSOULED_DRAGON_HEAD
+            ItemID.ENSOULED_DRAGON_HEAD,
+            ItemID.STAFF_OF_WATER
     );
 
     @Inject

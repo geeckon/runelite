@@ -20,7 +20,7 @@ public class EnchantingItemHighlightOverlay extends WidgetItemOverlay
     {
         this.itemManager = itemManager;
         this.plugin = plugin;
-        showOnEquipment();
+        showOnInventory();
     }
 
     @Override
