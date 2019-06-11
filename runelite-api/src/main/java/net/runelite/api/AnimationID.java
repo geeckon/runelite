@@ -157,4 +157,32 @@ public final class AnimationID
 
 	// Battlestaff Crafting
 	public static final int CRAFTING_BATTLESTAVES = 7531;
+
+	// Player attack animations
+	public static final int CRUSH_ATTACK = 401;
+	public static final int SLASH_ATTACK = 390;
+	public static final int STAB_ATTACK = 386;
+	public static final int WHIP_ATTACK = 1658;
+	public static final int BOW_ATTACK = 426;
+	public static final int BLOWPIPE_ATTACK = 5061;
+	public static final int TRIDENT_ATTACK = 1167;
+	public static final int BLITZ_ATTACK = 1978;
+	public static final int BARRAGE_ATTACK = 1979;
+	public static final int CROSSBOW_ATTACK = 7552;
+	public static final int CLAWS_ATTACK = 393;
+	public static final int SCYTHE_ATTACK = 8056;
+	public static final int GODSWORD_SLASH_ATTACK = 7045;
+	public static final int GODSWORD_CRUSH_ATTACK = 7054;
+	public static final int HALBERD_STAB_ATTACK = 428;
+	public static final int HALBERD_SLASH_ATTACK = 440;
+
+	// Special attacks
+	public static final int BANDOS_GODSWORD_SPECIAL_ATTACK = 7642;
+	public static final int HALBERD_SPECIAL_ATTACK = 1203;
+	public static final int WARHAMMER_SPECIAL_ATTACK = 1378;
+	public static final int CLAWS_SPECIAL_ATTACK = 7514;
+
+
+	// Emote animations
+	public static final int EMOTE_YES = 855;
 }

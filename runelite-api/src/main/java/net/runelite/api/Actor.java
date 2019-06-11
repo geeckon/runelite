@@ -182,6 +182,7 @@ public interface Actor extends Renderable
 	 * current location with the given z-axis offset.
 	 *
 	 * @param graphics engine graphics
+	 * @param graphics engine graphics
 	 * @param image the image to draw
 	 * @param zOffset the z-axis offset
 	 * @return the image drawing location
