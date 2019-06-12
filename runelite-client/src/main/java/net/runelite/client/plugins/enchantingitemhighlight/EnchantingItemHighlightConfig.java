@@ -8,8 +8,6 @@ import net.runelite.client.config.ConfigItem;
 @ConfigGroup("enchantingitemhighlight")
 public interface EnchantingItemHighlightConfig extends Config
 {
-    String GROUP = "enchantingitemhighlight";
-
     @ConfigItem(
             position = 0,
             keyName = "highlightColor",
